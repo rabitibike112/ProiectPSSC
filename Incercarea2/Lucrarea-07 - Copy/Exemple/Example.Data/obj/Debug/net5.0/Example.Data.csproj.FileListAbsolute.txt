@@ -1,0 +1,57 @@
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\bin\Debug\net5.0\Example.Data.deps.json
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\bin\Debug\net5.0\Example.Data.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\bin\Debug\net5.0\Example.Data.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\bin\Debug\net5.0\Example.Dto.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\bin\Debug\net5.0\Example.Events.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\bin\Debug\net5.0\Exemple.Domain.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\bin\Debug\net5.0\Exemple.Domain.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\bin\Debug\net5.0\Example.Dto.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\bin\Debug\net5.0\Example.Events.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.csproj.CopyComplete
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\obj\Debug\net5.0\refint\Example.Data.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Data\obj\Debug\net5.0\ref\Example.Data.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\refint\Example.Data.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Data.deps.json
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Data.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Data.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Dto.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Events.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Exemple.Domain.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Exemple.Domain.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Dto.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Events.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.csproj.CopyComplete
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\ref\Example.Data.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Data.deps.json
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Data.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Data.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Dto.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Events.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Exemple.Domain.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Exemple.Domain.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Dto.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\bin\Debug\net5.0\Example.Events.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.csproj.CopyComplete
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\refint\Example.Data.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\Example.Data.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Data\obj\Debug\net5.0\ref\Example.Data.dll

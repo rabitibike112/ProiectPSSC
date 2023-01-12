@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Messaging.ServiceBus" Version="7.5.0" />
+    <PackageReference Include="CloudNative.CloudEvents.SystemTextJson" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Azure" Version="1.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Proiect_lab4.Data\Proiect_lab4.Data.csproj" />
+    <ProjectReference Include="..\Proiect_lab4.Domain\Proiect_lab4.Domain.csproj" />
+    <ProjectReference Include="..\Proiect_lab6.Events.ServiceBus\Proiect_lab6.Events.ServiceBus.csproj" />
+    <ProjectReference Include="..\Proiect_lab6.Events\Proiect_lab6.Events.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,36 @@
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Dto\bin\Debug\net5.0\Example.Dto.deps.json
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Dto\bin\Debug\net5.0\Example.Dto.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Dto\bin\Debug\net5.0\Example.Dto.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Dto\obj\Debug\net5.0\refint\Example.Dto.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Dto\obj\Debug\net5.0\ref\Example.Dto.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Dto\bin\Debug\net5.0\Example.Dto.deps.json
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Dto\bin\Debug\net5.0\Example.Dto.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Dto\bin\Debug\net5.0\Example.Dto.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\refint\Example.Dto.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\ref\Example.Dto.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Dto\bin\Debug\net5.0\Example.Dto.deps.json
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Dto\bin\Debug\net5.0\Example.Dto.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Dto\bin\Debug\net5.0\Example.Dto.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\refint\Example.Dto.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\Example.Dto.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Dto\obj\Debug\net5.0\ref\Example.Dto.dll

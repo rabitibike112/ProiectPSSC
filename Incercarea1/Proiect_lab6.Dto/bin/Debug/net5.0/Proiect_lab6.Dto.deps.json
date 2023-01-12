@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Proiect_lab6.Dto/1.0.0": {
+        "runtime": {
+          "Proiect_lab6.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proiect_lab6.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

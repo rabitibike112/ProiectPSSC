@@ -1,0 +1,36 @@
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Events\bin\Debug\net5.0\Example.Events.deps.json
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Events\bin\Debug\net5.0\Example.Events.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Events\bin\Debug\net5.0\Example.Events.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Events\obj\Debug\net5.0\refint\Example.Events.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Events\obj\Debug\net5.0\ref\Example.Events.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Events\bin\Debug\net5.0\Example.Events.deps.json
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Events\bin\Debug\net5.0\Example.Events.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Events\bin\Debug\net5.0\Example.Events.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\refint\Example.Events.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\ref\Example.Events.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Events\bin\Debug\net5.0\Example.Events.deps.json
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Events\bin\Debug\net5.0\Example.Events.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Events\bin\Debug\net5.0\Example.Events.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\refint\Example.Events.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\Example.Events.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Events\obj\Debug\net5.0\ref\Example.Events.dll

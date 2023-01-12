@@ -1,0 +1,60 @@
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.ServiceBus.deps.json
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.ServiceBus.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\bin\Debug\net5.0\ref\Proiect_lab6.Events.ServiceBus.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.ServiceBus.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.csproj.AssemblyReference.cache
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.AssemblyInfoInputs.cache
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.AssemblyInfo.cs
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.csproj.CopyComplete
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\obj\Debug\net5.0\ref\Proiect_lab6.Events.ServiceBus.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.ServiceBus.deps.json
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.ServiceBus.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\ref\Proiect_lab6.Events.ServiceBus.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.ServiceBus.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.csproj.AssemblyReference.cache
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.AssemblyInfoInputs.cache
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.AssemblyInfo.cs
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.csproj.CopyComplete
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\ref\Proiect_lab6.Events.ServiceBus.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.pdb
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.ServiceBus.deps.json
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.ServiceBus.dll
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.ServiceBus.pdb
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.dll
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.pdb
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.csproj.CopyComplete
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.dll
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\refint\Proiect_lab6.Events.ServiceBus.dll
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.pdb
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\ref\Proiect_lab6.Events.ServiceBus.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.ServiceBus.deps.json
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.ServiceBus.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\ref\Proiect_lab6.Events.ServiceBus.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.ServiceBus.pdb
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\bin\Debug\net5.0\Proiect_lab6.Events.pdb
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.csproj.AssemblyReference.cache
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.AssemblyInfo.cs
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.csproj.CopyComplete
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\ref\Proiect_lab6.Events.ServiceBus.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab6.Events.ServiceBus\obj\Debug\net5.0\Proiect_lab6.Events.ServiceBus.pdb

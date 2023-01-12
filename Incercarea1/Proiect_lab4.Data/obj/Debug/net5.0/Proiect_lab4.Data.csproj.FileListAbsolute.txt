@@ -1,0 +1,76 @@
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Data.deps.json
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Data.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\bin\Debug\net5.0\ref\Proiect_lab4.Data.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Data.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Domain.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Dto.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Events.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Domain.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Dto.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Events.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.csproj.AssemblyReference.cache
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.AssemblyInfoInputs.cache
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.AssemblyInfo.cs
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.csproj.CopyComplete
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\obj\Debug\net5.0\ref\Proiect_lab4.Data.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Hadar_Fabian_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Data.deps.json
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Data.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\ref\Proiect_lab4.Data.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Data.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Domain.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Dto.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Events.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Domain.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Dto.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Events.pdb
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.csproj.AssemblyReference.cache
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.AssemblyInfoInputs.cache
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.AssemblyInfo.cs
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.csproj.CopyComplete
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\ref\Proiect_lab4.Data.dll
+D:\Facultate\Anul 4\Semestrul I\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.pdb
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Data.deps.json
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Data.dll
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Data.pdb
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Domain.dll
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Dto.dll
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Events.dll
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Domain.pdb
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Dto.pdb
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Events.pdb
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.csproj.CopyComplete
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.dll
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\refint\Proiect_lab4.Data.dll
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.pdb
+C:\Users\Catalina\Desktop\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\ref\Proiect_lab4.Data.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Data.deps.json
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Data.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\ref\Proiect_lab4.Data.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Data.pdb
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Domain.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Dto.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Events.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab4.Domain.pdb
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Dto.pdb
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\bin\Debug\net5.0\Proiect_lab6.Events.pdb
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.csproj.AssemblyReference.cache
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.AssemblyInfoInputs.cache
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.AssemblyInfo.cs
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.csproj.CopyComplete
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\ref\Proiect_lab4.Data.dll
+C:\Users\Tiberiu\Downloads\das\Laborator6\Proiect_lab4.Data\obj\Debug\net5.0\Proiect_lab4.Data.pdb

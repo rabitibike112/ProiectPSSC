@@ -1,0 +1,336 @@
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.exe
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.deps.json
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.runtimeconfig.json
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.runtimeconfig.dev.json
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Azure.Core.Amqp.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Azure.Messaging.ServiceBus.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\CloudNative.CloudEvents.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\CloudNative.CloudEvents.SystemTextJson.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\CSharp.Choices.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\CSharp.Choices.Attributes.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\LanguageExt.Core.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Extensions.Azure.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Data.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Dto.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Events.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Events.ServiceBus.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Exemple.Domain.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Data.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Events.ServiceBus.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Exemple.Domain.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Dto.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\bin\Debug\net5.0\Example.Events.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\scopedcss\bundle\Example.Api.styles.css
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\staticwebassets\Example.Api.StaticWebAssets.Manifest.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.csproj.CopyComplete
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\refint\Example.Api.dll
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.genruntimeconfig.cache
+C:\Users\Catalina\Desktop\Lucrarea-07\Exemple\Example.Api\obj\Debug\net5.0\ref\Example.Api.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\refint\Example.Api.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.exe
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.deps.json
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.runtimeconfig.json
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.runtimeconfig.dev.json
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Azure.Core.Amqp.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Azure.Messaging.ServiceBus.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\CloudNative.CloudEvents.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\CloudNative.CloudEvents.SystemTextJson.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\CSharp.Choices.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\CSharp.Choices.Attributes.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\LanguageExt.Core.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Extensions.Azure.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Data.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Dto.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Events.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Events.ServiceBus.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Exemple.Domain.dll
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Data.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Events.ServiceBus.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Exemple.Domain.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Dto.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Events.pdb
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\scopedcss\bundle\Example.Api.styles.css
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\staticwebassets\Example.Api.StaticWebAssets.Manifest.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.csproj.CopyComplete
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.genruntimeconfig.cache
+C:\Users\Catalina\Desktop\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\ref\Example.Api.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.exe
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.deps.json
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.runtimeconfig.json
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.runtimeconfig.dev.json
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Api.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Azure.Core.Amqp.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Azure.Messaging.ServiceBus.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\CloudNative.CloudEvents.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\CloudNative.CloudEvents.SystemTextJson.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\CSharp.Choices.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\CSharp.Choices.Attributes.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\LanguageExt.Core.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Extensions.Azure.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Data.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Dto.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Events.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Events.ServiceBus.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Exemple.Domain.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Data.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Events.ServiceBus.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Exemple.Domain.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Dto.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\bin\Debug\net5.0\Example.Events.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.csproj.AssemblyReference.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\scopedcss\bundle\Example.Api.styles.css
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\staticwebassets\Example.Api.StaticWebAssets.Manifest.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.csproj.CopyComplete
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\refint\Example.Api.dll
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.pdb
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\Example.Api.genruntimeconfig.cache
+C:\Users\Catalina\Desktop\Problema PSSC proiect dupa model prof\Lucrarea-07 - Copy\Exemple\Example.Api\obj\Debug\net5.0\ref\Example.Api.dll
